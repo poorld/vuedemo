@@ -67,10 +67,12 @@ Vue.prototype.$qs = qs
 - 2.绑定ref
 - 3.el-form-item 绑定prop(这一步不能缺少)
 - 4.this.$refs['create'].resetFields();
+```
 <el-form :model="create" ref="create">
 <el-form-item label="姓名" prop="name" :label-width="formLabelWidth">
     <el-input v-model="create.name" auto-complete="off"></el-input>
 </el-form-item>
+```
 
 ### element-ui el-date-picker 时间转换
 - moment 安装 npm install moment --save
