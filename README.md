@@ -1,9 +1,9 @@
+![Travis (.org)](https://img.shields.io/travis/:user/:repo.svg)
+
 
 # 说明:
 ## Vue.js书本增删改查小例子
 
-
-![Travis (.org)](https://img.shields.io/travis/:user/:repo.svg)
 
 
 > 运行时请先执行 npm install
