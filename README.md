@@ -13,14 +13,10 @@
 
 前端: vue.js+webpack
 
-后端: springboot
+后端: springboot [后端项目地址](https://github.com/teenyda/vuedemo-springboot)
 
 数据库：mysql
 
-
-=======
-前端: vue.js
-后端: springboot [后端项目地址](https://github.com/teenyda/vuedemo-springboot)
 
 
 ## 使用的插件有:
