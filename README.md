@@ -10,9 +10,11 @@
 
 ![效果图](http://pdv8bh429.bkt.clouddn.com/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
-<<<<<<< HEAD
+
 前端: vue.js+webpack
+
 后端: springboot
+
 数据库：mysql
 
 
@@ -20,7 +22,6 @@
 前端: vue.js
 后端: springboot [后端项目地址](https://github.com/teenyda/vuedemo-springboot)
 
->>>>>>> 9f8a266641118a7b167489535495455757a611fb
 
 ## 使用的插件有:
 -----------------------------------------------
@@ -77,5 +78,7 @@ Vue.prototype.$qs = qs
 
 ### element-ui el-date-picker 时间转换
 - moment 安装 npm install moment --save
+```
 this.create.time = moment(this.create.time).format('YYYY-MM-DD')
+```
 
