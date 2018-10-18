@@ -7,7 +7,6 @@
 
 > 运行时请先执行 npm install
 
-![效果图](http://pdv8bh429.bkt.clouddn.com/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 
 前端: vue.js+webpack
